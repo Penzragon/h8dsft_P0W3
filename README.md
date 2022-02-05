@@ -11,3 +11,9 @@ By [Rifky Aliffa](https://github.com/Penzragon)
 ## Dataset
 
 Data yang digunakan adalah dataset yang berisi project yang dikumpulkan dari [Kickstarter Platform](https://www.kickstarter.com/). Dataset dapat dilihat di [Kaggle](https://www.kaggle.com/kemical/kickstarter-projects?select=ks-projects-201801.csv).
+
+Kolom pada dataset cukup jelas, kecuali beberapa kolom berikut:
+
+- usd pledged: hasil konversi dari kolom `pledged` dalam bentuk USD (konversi dilakukan oleh [Kickstarter](https://www.kickstarter.com/))
+- usd_pledged_real: hasil konversi dari kolom `pledged` dalam bentuk USD (konversi dari [Fixer.io API](https://fixer.io/))
+- usd_goal_real: hasil konversi dari kolom `goal` dalam bentuk USD (konversi dari [Fixer.io API](https://fixer.io/))
