@@ -20,4 +20,4 @@ Kolom pada dataset cukup jelas, kecuali beberapa kolom berikut:
 
 ## Objective
 
-Tujuan yang ingin dicapai dalam project ini adalah mengetahui apakah kategori sebuah project mempengaruhi kesuksesannya dengan menggunakan dataset yang ada.
+Tujuan yang ingin dicapai dalam project ini adalah untuk mengetahui apakah kategori sebuah project mempengaruhi kesuksesannya dengan menggunakan dataset yang ada.
