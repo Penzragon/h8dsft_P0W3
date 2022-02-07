@@ -17,3 +17,7 @@ Kolom pada dataset cukup jelas, kecuali beberapa kolom berikut:
 - usd pledged: hasil konversi dari kolom `pledged` dalam bentuk USD (konversi dilakukan oleh [Kickstarter](https://www.kickstarter.com/))
 - usd_pledged_real: hasil konversi dari kolom `pledged` dalam bentuk USD (konversi dari [Fixer.io API](https://fixer.io/))
 - usd_goal_real: hasil konversi dari kolom `goal` dalam bentuk USD (konversi dari [Fixer.io API](https://fixer.io/))
+
+## Objective
+
+Tujuan yang ingin dicapai dalam project ini adalah mengetahui apakah kategori sebuah project mempengaruhi kesuksesannya dengan menggunakan dataset yang ada.
