@@ -18,6 +18,9 @@ Kolom pada dataset cukup jelas, kecuali beberapa kolom berikut:
 - usd_pledged_real: hasil konversi dari kolom `pledged` dalam bentuk USD (konversi dari [Fixer.io API](https://fixer.io/))
 - usd_goal_real: hasil konversi dari kolom `goal` dalam bentuk USD (konversi dari [Fixer.io API](https://fixer.io/))
 
-## Objective
+## Objectives
 
-Tujuan yang ingin dicapai dalam project ini adalah untuk mengetahui apakah kategori sebuah project mempengaruhi kesuksesannya dengan menggunakan dataset yang ada.
+Tujuan yang ingin dicapai dalam project ini adalah:
+
+- Melakukan uji hipotesis dengan klaim rata-rata nilai pledged dari project dengan kategori games itu sama dengan $1800.
+- Melakukan uji hipotesis apakah kategori sebuah project mempengaruhi kesuksesannya dengan menggunakan dataset yang ada.
